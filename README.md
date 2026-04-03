@@ -57,13 +57,31 @@ To build an intelligent system that can:
 2. Applied SMOTE + PCA for improved performance
 3. Introduced attention-based neural model for better feature learning
 4. Achieved highly reliable classification results
-
+   
 ##  Tech Stack
 1. Python
 2. NumPy, Pandas
 3. Scikit-learn
 4. TensorFlow / Keras
 5.  Matplotlib, Seaborn
+
+##  Authors
+This project is part of a collaborative research work conducted at SR University.
+
+Ramesh Dadi 
+Kanukuntla Shailaja
+Vallala Vyshnavi
+
+School of Computer Science and Artificial Intelligence  
+SR University, Warangal, Telangana
+
+## My Contribution
+1. Implemented the Artificial Neural Network (ANN) model for EEG-based classification  
+2. Integrated the Attention mechanism into the neural network architecture  
+3. Performed data preprocessing including normalization and missing value handling  
+4. Applied SMOTE for class imbalance and PCA for dimensionality reduction  
+5. Conducted model training, validation, and performance evaluation  
+6. Generated and analyzed results using metrics such as Accuracy, Precision, Recall, and F1-score  
 
 ##  How to Run
 1. Open the `.ipynb` notebook
@@ -75,6 +93,3 @@ To build an intelligent system that can:
 2. Integration with e-learning platforms
 3. Explainable AI for cognitive analysis
 
-## Author
-Kanukuntla Shailaja  
-B.Tech CSE (AI & ML), SR University
